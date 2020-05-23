@@ -1,0 +1,2 @@
+# Low-Cost-Earthquake-Resilient-Housing
+This is a collaborative project I undertook involving the design of low cost earthquake resilient housing for residents of Nepali Villages. This report outlines the iterative design process that was carried out leading up to the final design. My team's recommended design yielded a cost of just under $4000 NZD per house. Calculations and evidence of design process in appendices. 
