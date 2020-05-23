@@ -1,6 +1,4 @@
-# Low Cost Earthquake Resilient Housing
-
-Executive Summary
+# Executive Summary
 
 Nepal is a country that experiences frequent seismic movements which causes significant damage to
 buildings. This report introduces a design for a low-cost earthquake resilient house for the victims of the
